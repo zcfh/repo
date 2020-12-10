@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="zcfh" fetch="git@github.com:zcfh/" />
+  <default revision="master" remote="zcfh" sync-j="1" />
+  <project path="src" name="gclient_1.git" />
+  <!-- <project path="src/sub" name="gclient_2.git" /> -->
+</manifest>  
