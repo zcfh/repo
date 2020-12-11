@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="zcfh" fetch="https://github.com/zcfh/" />
+  <remote name="zcfh" fetch="https://github.com/zcfh/" review="http://localhost:8081" />
   <default revision="master" remote="zcfh" sync-j="2" />
   <project path="src" name="gclient_1.git" />
   <!-- <project path="src/sub" name="gclient_2.git" /> -->
